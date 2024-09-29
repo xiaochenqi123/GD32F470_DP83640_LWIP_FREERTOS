@@ -1,0 +1,17 @@
+.\objects\netdb.o: ..\Thirdparty\Lwip\src\api\netdb.c
+.\objects\netdb.o: ..\Thirdparty\Lwip\src\include\lwip/netdb.h
+.\objects\netdb.o: ..\Thirdparty\Lwip\src\include\lwip/opt.h
+.\objects\netdb.o: ..\Thirdparty\Lwip\src\include\lwip/lwipopts.h
+.\objects\netdb.o: ..\Thirdparty\FreeRtos\include\FreeRTOSConfig.h
+.\objects\netdb.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdint.h
+.\objects\netdb.o: ..\Thirdparty\Lwip\src\include\lwip/debug.h
+.\objects\netdb.o: ..\Thirdparty\Lwip\src\include\lwip/arch.h
+.\objects\netdb.o: ..\Thirdparty\Lwip\port\GD32F4xx\arch/cc.h
+.\objects\netdb.o: ..\Thirdparty\Lwip\port\GD32F4xx\arch/cpu.h
+.\objects\netdb.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdio.h
+.\objects\netdb.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdlib.h
+.\objects\netdb.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stddef.h
+.\objects\netdb.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\inttypes.h
+.\objects\netdb.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\limits.h
+.\objects\netdb.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\ctype.h
+.\objects\netdb.o: ..\Thirdparty\Lwip\src\include\lwip/opt.h

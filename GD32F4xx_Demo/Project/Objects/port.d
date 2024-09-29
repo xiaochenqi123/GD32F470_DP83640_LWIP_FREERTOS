@@ -1,0 +1,12 @@
+.\objects\port.o: ..\Thirdparty\FreeRtos\portable\RVDS\ARM_CM4F\port.c
+.\objects\port.o: ..\Thirdparty\FreeRtos\include\FreeRTOS.h
+.\objects\port.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stddef.h
+.\objects\port.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdint.h
+.\objects\port.o: ..\Thirdparty\FreeRtos\include\FreeRTOSConfig.h
+.\objects\port.o: ..\Thirdparty\FreeRtos\include\projdefs.h
+.\objects\port.o: ..\Thirdparty\FreeRtos\include\portable.h
+.\objects\port.o: ..\Thirdparty\FreeRtos\include\deprecated_definitions.h
+.\objects\port.o: ..\Thirdparty\FreeRtos\portable\RVDS\ARM_CM4F\portmacro.h
+.\objects\port.o: ..\Thirdparty\FreeRtos\include\mpu_wrappers.h
+.\objects\port.o: ..\Thirdparty\FreeRtos\include\task.h
+.\objects\port.o: ..\Thirdparty\FreeRtos\include\list.h

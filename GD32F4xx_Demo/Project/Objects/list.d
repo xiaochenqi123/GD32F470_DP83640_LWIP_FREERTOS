@@ -1,0 +1,12 @@
+.\objects\list.o: ..\Thirdparty\FreeRtos\list.c
+.\objects\list.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdlib.h
+.\objects\list.o: ..\Thirdparty\FreeRtos\include\FreeRTOS.h
+.\objects\list.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stddef.h
+.\objects\list.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdint.h
+.\objects\list.o: ..\Thirdparty\FreeRtos\include\FreeRTOSConfig.h
+.\objects\list.o: ..\Thirdparty\FreeRtos\include\projdefs.h
+.\objects\list.o: ..\Thirdparty\FreeRtos\include\portable.h
+.\objects\list.o: ..\Thirdparty\FreeRtos\include\deprecated_definitions.h
+.\objects\list.o: ..\Thirdparty\FreeRtos\portable\RVDS\ARM_CM4F\portmacro.h
+.\objects\list.o: ..\Thirdparty\FreeRtos\include\mpu_wrappers.h
+.\objects\list.o: ..\Thirdparty\FreeRtos\include\list.h

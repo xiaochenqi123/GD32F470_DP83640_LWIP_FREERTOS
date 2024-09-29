@@ -1,0 +1,16 @@
+.\objects\stats.o: ..\Thirdparty\Lwip\src\core\stats.c
+.\objects\stats.o: ..\Thirdparty\Lwip\src\include\lwip/opt.h
+.\objects\stats.o: ..\Thirdparty\Lwip\src\include\lwip/lwipopts.h
+.\objects\stats.o: ..\Thirdparty\FreeRtos\include\FreeRTOSConfig.h
+.\objects\stats.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdint.h
+.\objects\stats.o: ..\Thirdparty\Lwip\src\include\lwip/debug.h
+.\objects\stats.o: ..\Thirdparty\Lwip\src\include\lwip/arch.h
+.\objects\stats.o: ..\Thirdparty\Lwip\port\GD32F4xx\arch/cc.h
+.\objects\stats.o: ..\Thirdparty\Lwip\port\GD32F4xx\arch/cpu.h
+.\objects\stats.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdio.h
+.\objects\stats.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdlib.h
+.\objects\stats.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stddef.h
+.\objects\stats.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\inttypes.h
+.\objects\stats.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\limits.h
+.\objects\stats.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\ctype.h
+.\objects\stats.o: ..\Thirdparty\Lwip\src\include\lwip/opt.h

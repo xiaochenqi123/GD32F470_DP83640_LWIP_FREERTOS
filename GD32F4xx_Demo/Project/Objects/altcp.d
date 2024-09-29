@@ -1,0 +1,16 @@
+.\objects\altcp.o: ..\Thirdparty\Lwip\src\core\altcp.c
+.\objects\altcp.o: ..\Thirdparty\Lwip\src\include\lwip/opt.h
+.\objects\altcp.o: ..\Thirdparty\Lwip\src\include\lwip/lwipopts.h
+.\objects\altcp.o: ..\Thirdparty\FreeRtos\include\FreeRTOSConfig.h
+.\objects\altcp.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdint.h
+.\objects\altcp.o: ..\Thirdparty\Lwip\src\include\lwip/debug.h
+.\objects\altcp.o: ..\Thirdparty\Lwip\src\include\lwip/arch.h
+.\objects\altcp.o: ..\Thirdparty\Lwip\port\GD32F4xx\arch/cc.h
+.\objects\altcp.o: ..\Thirdparty\Lwip\port\GD32F4xx\arch/cpu.h
+.\objects\altcp.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdio.h
+.\objects\altcp.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdlib.h
+.\objects\altcp.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stddef.h
+.\objects\altcp.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\inttypes.h
+.\objects\altcp.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\limits.h
+.\objects\altcp.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\ctype.h
+.\objects\altcp.o: ..\Thirdparty\Lwip\src\include\lwip/opt.h

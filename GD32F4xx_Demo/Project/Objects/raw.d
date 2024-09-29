@@ -1,0 +1,16 @@
+.\objects\raw.o: ..\Thirdparty\Lwip\src\core\raw.c
+.\objects\raw.o: ..\Thirdparty\Lwip\src\include\lwip/opt.h
+.\objects\raw.o: ..\Thirdparty\Lwip\src\include\lwip/lwipopts.h
+.\objects\raw.o: ..\Thirdparty\FreeRtos\include\FreeRTOSConfig.h
+.\objects\raw.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdint.h
+.\objects\raw.o: ..\Thirdparty\Lwip\src\include\lwip/debug.h
+.\objects\raw.o: ..\Thirdparty\Lwip\src\include\lwip/arch.h
+.\objects\raw.o: ..\Thirdparty\Lwip\port\GD32F4xx\arch/cc.h
+.\objects\raw.o: ..\Thirdparty\Lwip\port\GD32F4xx\arch/cpu.h
+.\objects\raw.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdio.h
+.\objects\raw.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stdlib.h
+.\objects\raw.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\stddef.h
+.\objects\raw.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\inttypes.h
+.\objects\raw.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\limits.h
+.\objects\raw.o: C:\Keil_v5\ARM\ARM_Complier_5.05_uv7\Bin\..\include\ctype.h
+.\objects\raw.o: ..\Thirdparty\Lwip\src\include\lwip/opt.h
